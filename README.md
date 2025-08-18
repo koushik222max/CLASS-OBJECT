@@ -62,4 +62,4 @@ But remember: the more you run it, the more you realize—
 You aren’t coding them.
 You’re cataloguing yourself.
 --------------
-----------------------------------------💀⌛ Because in the end, we’re all just entries in someone else’s object class.-----------------------------------
+----------------------------------------💀⌛ Because in the end, we’re all just entries in someone else’s object class.--------------------------------
